@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Shape from './Shape.js';
+import "./index.css"
 
 class Selector extends Component {
   constructor (){
